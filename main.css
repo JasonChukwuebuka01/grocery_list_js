@@ -124,3 +124,35 @@ body {
     to{box-shadow:none;color:#390099;}
 }
 
+
+
+
+@media (max-width:480px){
+ 
+ .container .grocery #stage{
+      max-height:50vh;      
+    }
+    
+    
+    
+    
+    
+    
+ .container{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    height:100vh;
+    }
+    
+    
+    
+    .container .grocery{
+        
+        height:90vh;
+    }
+}
+
+
+
+
