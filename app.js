@@ -61,6 +61,7 @@ window.onload=()=>{
      });//End of Case 1.2
     
        stage.appendChild(liTag);
+         stage.scrollTo(0,stage.scrollHeight);
        userInput.value="";
              
 // CASE 1.3(Click event to pen to set LiTag to display none);  
